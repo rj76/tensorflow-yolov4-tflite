@@ -6,6 +6,7 @@ Convert YOLO v4, YOLOv3, YOLO tiny .weights to .pb, .tflite and trt format for t
 
 Download yolov4.weights file: https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
 
+Fork with docker-compose files to use the correct python version for the requirements.
 
 ### Prerequisites
 * Tensorflow 2.3.0rc0
